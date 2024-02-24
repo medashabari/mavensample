@@ -15,6 +15,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <repositories>
+    <repository>
+    <id>id</id>
+    <url>jfrog-repo-url</url>
+    </repository>
+</repositories>
   <build>
     <finalName>Maven-app-02</finalName>
   </build>
